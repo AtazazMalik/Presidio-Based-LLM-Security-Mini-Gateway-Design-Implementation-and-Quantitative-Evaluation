@@ -125,3 +125,4 @@ Output : Request blocked due to suspected prompt injection.
 | `CONTEXT_WINDOW_CHARS` | `60` | `custom_recognizers.py` |
 
 All thresholds are configurable constants — no code restructuring required.
+
